@@ -1,0 +1,7 @@
+ <h1>C# PARA INICIANTES - Lógica de Programação</H1
+ <h2>1. Número Par</h2>
+ 
+Aplicação em console C#, chamada numeropar que exibe os números de 1 a 50 em ordem decrescente.</p>
+ 
+
+ Em caso de dúvidas me coloco a disposição para contato via e-mail :  *golfliguio@hotmail.com* . 
