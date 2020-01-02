@@ -1,0 +1,10 @@
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\bin\Debug\netcoreapp3.0\ServicoMilitar.exe
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\bin\Debug\netcoreapp3.0\ServicoMilitar.deps.json
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\bin\Debug\netcoreapp3.0\ServicoMilitar.runtimeconfig.json
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\bin\Debug\netcoreapp3.0\ServicoMilitar.runtimeconfig.dev.json
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\bin\Debug\netcoreapp3.0\ServicoMilitar.dll
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\bin\Debug\netcoreapp3.0\ServicoMilitar.pdb
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\obj\Debug\netcoreapp3.0\ServicoMilitar.AssemblyInfoInputs.cache
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\obj\Debug\netcoreapp3.0\ServicoMilitar.AssemblyInfo.cs
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\obj\Debug\netcoreapp3.0\ServicoMilitar.dll
+C:\Users\golfl\Desktop\Gustavo P\ServicoMilitar\ServicoMilitar\obj\Debug\netcoreapp3.0\ServicoMilitar.pdb

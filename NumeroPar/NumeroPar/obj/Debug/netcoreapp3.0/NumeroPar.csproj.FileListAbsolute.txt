@@ -1,0 +1,11 @@
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\bin\Debug\netcoreapp3.0\NumeroPar.exe
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\bin\Debug\netcoreapp3.0\NumeroPar.deps.json
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\bin\Debug\netcoreapp3.0\NumeroPar.runtimeconfig.json
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\bin\Debug\netcoreapp3.0\NumeroPar.runtimeconfig.dev.json
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\bin\Debug\netcoreapp3.0\NumeroPar.dll
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\bin\Debug\netcoreapp3.0\NumeroPar.pdb
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\obj\Debug\netcoreapp3.0\NumeroPar.AssemblyInfoInputs.cache
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\obj\Debug\netcoreapp3.0\NumeroPar.AssemblyInfo.cs
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\obj\Debug\netcoreapp3.0\NumeroPar.dll
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\obj\Debug\netcoreapp3.0\NumeroPar.pdb
+C:\Users\golfl\Desktop\Gustavo P\NumeroPar\NumeroPar\obj\Debug\netcoreapp3.0\NumeroPar.csprojAssemblyReference.cache
