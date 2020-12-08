@@ -1,0 +1,13 @@
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\bin\Debug\netcoreapp3.1\L10_1.exe
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\bin\Debug\netcoreapp3.1\L10_1.deps.json
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\bin\Debug\netcoreapp3.1\L10_1.runtimeconfig.json
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\bin\Debug\netcoreapp3.1\L10_1.runtimeconfig.dev.json
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\bin\Debug\netcoreapp3.1\L10_1.dll
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\bin\Debug\netcoreapp3.1\L10_1.pdb
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\obj\Debug\netcoreapp3.1\L10_1.csprojAssemblyReference.cache
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\obj\Debug\netcoreapp3.1\L10_1.csproj.CoreCompileInputs.cache
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\obj\Debug\netcoreapp3.1\L10_1.AssemblyInfoInputs.cache
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\obj\Debug\netcoreapp3.1\L10_1.AssemblyInfo.cs
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\obj\Debug\netcoreapp3.1\L10_1.dll
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\obj\Debug\netcoreapp3.1\L10_1.pdb
+C:\Users\golfl\Desktop\Freela\L10_1\L10_1\obj\Debug\netcoreapp3.1\L10_1.genruntimeconfig.cache

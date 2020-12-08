@@ -1,0 +1,13 @@
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp3.1\CadastroCliente.csprojAssemblyReference.cache
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp3.1\CadastroCliente.csproj.CoreCompileInputs.cache
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp3.1\CadastroCliente.AssemblyInfoInputs.cache
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp3.1\CadastroCliente.AssemblyInfo.cs
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp3.1\CadastroCliente.exe
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp3.1\CadastroCliente.deps.json
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp3.1\CadastroCliente.runtimeconfig.json
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp3.1\CadastroCliente.runtimeconfig.dev.json
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp3.1\CadastroCliente.dll
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\bin\Debug\netcoreapp3.1\CadastroCliente.pdb
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp3.1\CadastroCliente.dll
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp3.1\CadastroCliente.pdb
+C:\Users\golfl\Desktop\Freela\CadastroCliente\CadastroCliente\obj\Debug\netcoreapp3.1\CadastroCliente.genruntimeconfig.cache
